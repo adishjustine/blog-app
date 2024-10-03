@@ -1,0 +1,10 @@
+/* App.css */
+
+/* You can add any global styles or overrides here */
+
+/* Example: Global styles */
+body {
+  font-family: 'Inter', system-ui, Avenir, Helvetica, Arial, sans-serif; /* Ensure you use the same font as defined in index.css */
+}
+
+/* Tailwind CSS provides most of the styling, so you can keep this file minimal */

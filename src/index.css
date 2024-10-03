@@ -1,0 +1,23 @@
+/* index.css */
+
+/* Import Tailwind CSS styles */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* You can add additional global styles here if needed */
+
+/* Example of global styles */
+
+/* body {
+  margin: 0;
+  font-family: 'Inter', system-ui, Avenir, Helvetica, Arial, sans-serif;
+  background: linear-gradient(to bottom, #5c5e9d, #2b2c66);
+  color: white;
+}
+
+h1 {
+  font-size: 2rem;
+} */
+
+/* Additional styles can be added here */
